@@ -39,3 +39,4 @@ services:
 
 volumes:
   comic_server:
+  redis:
